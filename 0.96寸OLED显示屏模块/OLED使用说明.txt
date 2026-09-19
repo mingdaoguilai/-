@@ -1,0 +1,10 @@
+新款0.96寸 4管脚 白色 焊好排针  使用说明：
+
+https://www.bilibili.com/opus/1019499397834080257
+
+
+新款0.96寸4管脚资料链接：
+
+https://pan.baidu.com/s/1l9Az0SOl7TOfX1HwjdqMjg?pwd=8889 提取码: 8889 
+
+（说明：如果0.96寸OLED显示乱码，可以尝试将SDA和SCL使用10K电阻上拉到VCC）
